@@ -17,7 +17,7 @@ hashlips_art_engine 工具使用，用于快速构建JSON文件，构造符合Me
 唯一需要注意的事需要了解与智能合约交互需要了解钱包知识如何调用钱包用、发送交易  
 可以使用web3modal库
 
-.sol编写使用 https://remix.ethereum.org/ 
+.sol编写使用 https://remix.ethereum.org/  
 验证合约：ETHscan、单文件直接验证、多文件（依赖库的智能合约）使用flatten混入成单文件在构建  
 flatten: 用来混入依赖  
 hardat:部署、测试智能合约库  
